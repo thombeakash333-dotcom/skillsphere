@@ -1,0 +1,1 @@
+function startChallenge(){alert("Challenge started! Build your portfolio homepage and practice HTML, CSS and responsive design.");}
